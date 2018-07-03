@@ -1,0 +1,35 @@
+{
+  "name": "@ankitverma/number-formatter",
+  "version": "0.1.0",
+  "description": "Number formatter nodejs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitverma31/number-formatter.git"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "keywords": [
+    "NodeJS",
+    "module",
+    "number-formatter"
+  ],
+  "author": "Ankit Verma <ankitverma3103@gmail.com> (ankitverma.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankitverma31/number-formatter/issues"
+  },
+  "homepage": "https://github.com/ankitverma31/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
+}
