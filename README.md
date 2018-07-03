@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/ankitverma31/number-formatter.svg?branch=master)](https://travis-ci.org/ankitverma31/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/ankitverma31/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/ankitverma31/number-formatter?branch=master)
+
 Number Formatter
 =========
 
@@ -20,3 +23,7 @@ A small library that adds commas to numbers
 ## Tests
 
   `npm test`
+
+## Contributing
+
+In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
