@@ -2,7 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/ankitverma31/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/ankitverma31/number-formatter?branch=master)
 [![Release](https://img.shields.io/badge/release-v0.1.1-blue.svg)](https://github.com/ankitverma31/number-formatter/releases/tag/v0.1.1)
 [![CodeFactor](https://www.codefactor.io/repository/github/ankitverma31/number-formatter/badge)](https://www.codefactor.io/repository/github/ankitverma31/number-formatter)
-[![npm](https://img.shields.io/npm/dm/@ankitverma&#x2F;number-formatter.svg?style=flat)](https://npmjs.com/package/@ankitverma&#x2F;number-formatter)
+[![npm](https://img.shields.io/npm/dt/@ankitverma&#x2F;number-formatter.svg?style=flat)](https://npmjs.com/package/@ankitverma&#x2F;number-formatter)
 
 
 
