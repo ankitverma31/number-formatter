@@ -3,6 +3,10 @@
 [![Release](https://img.shields.io/badge/release-v0.1.1-blue.svg)](https://github.com/ankitverma31/number-formatter/releases/tag/v0.1.1)
 [![CodeFactor](https://www.codefactor.io/repository/github/ankitverma31/number-formatter/badge)](https://www.codefactor.io/repository/github/ankitverma31/number-formatter)
 [![npm version](https://badge.fury.io/js/%40ankitverma%2Fnumber-formatter.svg)](https://badge.fury.io/js/%40ankitverma%2Fnumber-formatter)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ankitverma31/number-formatter/blob/master/LICENSE)
+
+
+
 
 
 
